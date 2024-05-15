@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kazi Md Kamruzzaman Bbalu</h1>
+<h1 align="center">Hi 👋, I'm Kazi Md Kamruzzaman Bablu</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 <div align="center">
