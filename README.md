@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazi-bablu" alt="kazi-bablu" /></a> </p>
 
-- 🔭 I’m currently working on **FundedNext,CRM**
+- 🔭 I’m currently working on **MYGP Backend**
 
 - 🌱 I’m currently learning **Breaking Monolith to Microservice, Software Architecture & Design of Modern Large Scale Systems**
 
